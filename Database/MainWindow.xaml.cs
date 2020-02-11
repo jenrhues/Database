@@ -65,5 +65,15 @@ namespace Database
             }
             cn.Close();
         }
+
+        private void typeHere2_TextChanged(object sender, TextChangedEventArgs e)
+        {
+
+        }
+
+        private void typeHere1_TextChanged(object sender, TextChangedEventArgs e)
+        {
+
+        }
     }
 }
