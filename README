@@ -1,0 +1,14 @@
+Name: Jennifer Huestis
+Date: 02/11/2020
+Files: MainWindow.xaml & MainWindow.xaml.cs
+Description: This program is meant to access a specific database. Buttons are implemented to display information from the 
+  database to the user in text boxes. The program was made under the assumption that no one would try to break it.
+Difficulties: I had trouble connecting my database to the WPF, and I could not figure out what was wrong with my connection
+  string name. After a lot of slamming my head on the desk, I was able to refocus on find that one "\" was causing all of
+  my trouble. Then, I had trouble opening the database because I had not written a closing statement.
+Design: The buttons are yellow and orange because that is what comes to mind when I think of a database. There is no sense
+  to it besides a feeling. Also, the colors are not terrible to look at for a moment. The text is outputted with labels in
+  the same color text box. The gradient made it less boring. The boxes take up the majority of the screen because that is
+  all the program was meant to do.
+Future: If I had more time to work on this project, I would have attempted the bonus, which wanted the ability to add to the
+  database.
